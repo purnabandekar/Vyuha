@@ -1,0 +1,11 @@
+﻿Evidence_Type,Completeness_Percentage,Missing_Cases
+CCTV Evidence,82,56
+Medical Evidence,68,92
+Witness Statements,74,71
+Forensic Evidence,61,115
+Physical Evidence,79,48
+Digital Evidence,65,103
+Cyber Evidence,72,64
+Mobile Records,77,53
+Call Data Records,81,42
+GPS Tracking Data,69,89

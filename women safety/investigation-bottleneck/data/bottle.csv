@@ -1,0 +1,6 @@
+﻿Stage,Avg_Delay_Days,Status
+FIR Registration,0.8,Good
+Medical Examination,2.6,Moderate
+Evidence Collection,5.4,Moderate
+Witness Statements,7.2,High
+Chargesheet Filing,12.3,Critical
